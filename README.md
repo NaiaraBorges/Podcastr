@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="./podcastrnext/public/img/logo.svg" width="400px" /> <br>
+    <img src="./public/img/logo.svg" width="400px" /> <br>
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
